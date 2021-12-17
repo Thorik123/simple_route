@@ -19,7 +19,7 @@ class HomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Belajar Routing'),
+        title: const Text('Belajar dasar Routing'),
       ),
       body: Center(
         child: RaisedButton(
